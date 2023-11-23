@@ -7,4 +7,5 @@
 dan framwok
 + lavavel/ci
 + node js
++ saya juga akan belajar bootstrap dan sql,mysql,mongo Bd
 
