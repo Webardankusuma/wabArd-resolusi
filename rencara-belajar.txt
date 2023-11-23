@@ -3,6 +3,7 @@
 -  saya akan belajar bahasa pemograman 
 + php
 + javascript
+
 + java
 + python
 dan framwok
@@ -10,4 +11,5 @@ dan framwok
 + node js
 + saya juga akan belajar bootstrap dan sql,mysql,mongo Bd
  - belajar crud dan mvc
+
 
