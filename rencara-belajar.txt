@@ -3,10 +3,13 @@
 -  saya akan belajar bahasa pemograman 
 + php
 + javascript
-+ c++
+
++ java
++ python
 dan framwok
 + lavavel/ci
 + node js
-+ Angular
++ saya juga akan belajar bootstrap dan sql,mysql,mongo Bd
+ - belajar crud dan mvc
 
 
